@@ -1,5 +1,9 @@
 ### Hi there 👋
 
+<p align="center"> 
+  <img src="https://profile-counter.glitch.me/yu-li/count.svg" /> Pageviews
+</p>
+
 <!-- [![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-li)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-li&hide=css,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 <!--
