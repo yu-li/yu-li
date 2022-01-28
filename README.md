@@ -1,13 +1,13 @@
 ### Hi there 👋
 
-<p align="center"> 
+<p align="left"> 
   <img src="https://profile-counter.glitch.me/yu-li/count.svg" /> Pageviews
 </p>
 
-<p align="center"> 
+
 <!-- [![Yu's GitHub stats](https://github-readme-stats.vercel.app/api?username=yu-li)](https://github.com/anuraghazra/github-readme-stats) -->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=yu-li&hide=css,html&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
-</p>
+
 
 <!--
 **yu-li/yu-li** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
